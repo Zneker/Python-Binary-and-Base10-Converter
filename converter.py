@@ -16,4 +16,4 @@ if choice == "0":
     print(bass10)
 
     base10 = bin(bass10)
-    print(base10-"b")
+    print(base10)
